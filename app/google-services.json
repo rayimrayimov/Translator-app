@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686283496258",
+    "project_id": "translator-app-bd504",
+    "storage_bucket": "translator-app-bd504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686283496258:android:fedd38a639ca9c0b1b46db",
+        "android_client_info": {
+          "package_name": "com.example.proje1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686283496258-ef0se8ojoqpviscb9saums16p1lsu8hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObTFYTxNnux487m0BHNx3G4i5lv47isc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686283496258-ef0se8ojoqpviscb9saums16p1lsu8hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
